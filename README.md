@@ -14,8 +14,6 @@
 <a href="https://github.com/Camila404" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Camila404&color=ff69b4&style=flat-square&label=Visitantes" alt="Profile views" />
-  <a href="https://github.com/Camila404?tab=followers"><img src="https://img.shields.io/github/followers/Camila404?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://github.com/Camila404?tab=repositories"><img src="https://img.shields.io/badge/Repos-check%20out-blue?style=flat-square&logo=github" alt="GitHub repos" /></a>
 </p>
 
